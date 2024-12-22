@@ -39,9 +39,9 @@ Her bir sınıftan 650 adet resim seçilmiş ve veri kümesi dengeye getirilmiş
 
 ## Sonuçlar
 Proje sonunda elde edilen doğruluk oranları aşağıdaki gibidir:
-- **Orijinal Test Seti Doğruluğu**: `%65-%71`
-- **Manipüle Edilmiş Test Seti Doğruluğu**: `%20-%30`
-- **Renk Sabitliği Uygulanmış Test Seti Doğruluğu**: `%45-%55`
+- **Orijinal Test Seti Doğruluğu**: %73.15
+- **Manipüle Edilmiş Test Seti Doğruluğu**: %33.62
+- **Renk Sabitliği Uygulanmış Test Seti Doğruluğu**: %63.46
 
 Sonuçlar, manipülasyon ve renk sabitliği uygulamalarının modelin doğruluğu üzerinde nasıl bir etki yarattığını göstermektedir.
 

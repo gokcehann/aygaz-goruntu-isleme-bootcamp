@@ -61,3 +61,5 @@ Model, aşağıdaki katmanları içerir:
 
 ## Görselleştirmeler
 Eğitim ve doğrulama doğruluğu ve kaybı süreç boyunca izlenmiş ve görselleştirilmiştir. Ayrıca, orijinal ve manipüle edilmiş test verileri ile karşılaştırmalar yapılmıştır.
+
+##Kaggle Linki: https://www.kaggle.com/code/gokcehanozdemir/aygaz-goruntu-sleme
